@@ -1,0 +1,59 @@
+CMP4336 - Introduction to Data Mining
+2019-2020 Summer Term Project
+
+Important Notes
+
+- Project report submission deadline: September 8, 23:59 (Strict)
+
+- Submit your report through itslearning as a single PDF file. You should use the attached file as report template. The source code will be given in the Appendix section of the report.
+
+- This is a group project. Therefore, you should work in groups of 2 or 3 people. Individual implementations or groups more than 3 students will NOT be accepted.
+
+---------------------
+
+Grading of Project
+
+Report: 35%
+Quality of Work: 40%
+Presentation: 25%
+
+---------------------
+
+Important Instructions 
+
+- The presentations will be held in the last week of the semester during the class. I will later announce the exact presentation dates.
+
+- Choose one or more datasets from Kaggle, UCI machine learning repository or any other internet source. You are also allowed to use a dataset belonging to the company or organization you work for if you have the required permissions. 
+
+- The dataset(s) you will use in your projects should not be older than 2015. 
+
+- Your experiments should be presented in a comparative manner, i.e. not an application of a single method to a single dataset. For example, comparing multiple clustering algorithms under different conditions, comparing feature selection algortihms based on different criterion, etc.
+
+- Implementation should be done at Python. You may use any packages, functions, classes, etc.
+
+---------------------
+
+Project Report Instructions
+
+In the project report, you should:
+
+- Divide the report into 6 sections: (1) Introduction, (2) Dataset Description, (3) Methods, (4) Experimental Results, (5) Conclusions, (6) Appendix.
+
+- The source code will be given in (6) Appendix section of the report.
+
+- Clearly define the aim of the project in introduction section. You may use the methods we have covered until now this semester or any other machine learning method. 
+
+- Give a review of the related works about your project topics.
+
+- Briefly summarize the methods you have implemented in your project with your own words. 
+
+- Give the experimental results with tables and/or figures. Make comments and compare the algorithms with proper evaluation metrics depending on the structure of your problem and dataset.
+
+---------------------
+
+Submission Instructions
+
+- Submit your report through itslearning as a single PDF file. You should use the attached file as report template. The source code will be given in the Appendix section of the report.
+
+- Only one person out of each group should submit the project. The file name should include all group members’ student names in the format
+{STUDENT NAME} and {STUDENT NAME}.rar
